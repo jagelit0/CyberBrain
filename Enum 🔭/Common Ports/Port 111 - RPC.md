@@ -28,7 +28,7 @@
 
 ### NFS
 ```bash
-$ showmount -p 10.10.10.180
+$ showmount -e 10.10.10.180
 	Export list for 10.10.10.180:
 	/site_backups (everyone)
 	

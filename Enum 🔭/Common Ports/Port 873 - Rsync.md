@@ -2,7 +2,6 @@
 **rsync** is a utility for efficiently [transferring](https://en.wikipedia.org/wiki/File_transfer) and [synchronizing](https://en.wikipedia.org/wiki/File_synchronization) [files](https://en.wikipedia.org/wiki/Computer_file) between a computer and an external hard drive and across [networked](https://en.wikipedia.org/wiki/Computer_network) [computers](https://en.wikipedia.org/wiki/Computer) by comparing the [modification times](https://en.wikipedia.org/wiki/Timestamping_(computing))and sizes of files. It is commonly found on [Unix-like](https://en.wikipedia.org/wiki/Unix-like) [operating systems](https://en.wikipedia.org/wiki/Operating_system). The rsync algorithm is a type of [delta encoding](https://en.wikipedia.org/wiki/Delta_encoding), and is used for minimizing network usage. [Zlib](https://en.wikipedia.org/wiki/Zlib) may be used for additional [data compression](https://en.wikipedia.org/wiki/Data_compression), and [SSH](https://en.wikipedia.org/wiki/Secure_Shell) or [stunnel](https://en.wikipedia.org/wiki/Stunnel) can be used for security.
 
 ---
-
 # Enumeration
 ## Manual
 ```bash
